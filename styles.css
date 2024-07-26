@@ -52,3 +52,11 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.phone-btn {
+  margin-top: 25px;
+  padding: 15px 25px;
+  font-family: 'Press Start 2P', cursive;
+  color: #011F3F;
+  background-color: #FEF2BF;
+}
