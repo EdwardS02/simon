@@ -11,6 +11,13 @@ $(document).keypress(function() {
     }
   });
 
+  $("#phone-btn").click(function() {
+    if (!start) {
+      $("#level-title").text("Level " + level);
+      nextSequence();
+      start = true;
+    }
+  });
 
 var level = 1;
 
