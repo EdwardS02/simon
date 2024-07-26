@@ -53,7 +53,7 @@ body {
   background-color: grey;
 }
 
-.phone-btn {
+#phone-btn {
   margin-top: 25px;
   padding: 15px 25px;
   font-family: 'Press Start 2P', cursive;
